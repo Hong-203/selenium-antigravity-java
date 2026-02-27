@@ -37,8 +37,6 @@
             <version>2.27.0</version>
         </dependency>
 
-<<<<<<< HEAD
-=======
         <!-- Java Faker -->
         <dependency>
             <groupId>com.github.javafaker</groupId>
@@ -46,8 +44,6 @@
             <version>1.0.2</version>
         </dependency>
 
-
->>>>>>> 7943303 (Add Test Login)
     </dependencies>
 
 </project>
