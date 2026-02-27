@@ -59,6 +59,8 @@ public class BaseTest {
 
         driver = new ChromeDriver(options);
 
+        // Initialize Pages
+        loginPage = new LoginPage(driver);
     }
 
     @AfterMethod
