@@ -61,6 +61,8 @@ public class BaseTest {
 
         // Initialize Pages
         loginPage = new LoginPage(driver);
+        bookManagementPage = new BookManagementPage(driver);
+        addBookPage = new AddBookPage(driver);
     }
 
     @AfterMethod
