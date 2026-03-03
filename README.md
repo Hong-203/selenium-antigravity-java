@@ -38,7 +38,7 @@ This project is built using **Selenium WebDriver 4** and **Java 17**, applying t
 ### Clone repository
 
 ```bash
-git clone https://github.com/Hong-203/selenium-antigravity-java
+git clone https://github.com/Hong-203/selenium-testing-book-management
 ```
 
 ### Install dependencies
