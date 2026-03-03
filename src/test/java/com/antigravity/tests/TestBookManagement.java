@@ -17,7 +17,7 @@ public class TestBookManagement extends BaseTest {
     @Description("TC01: Verify Login Successfully")
     public void test_tc01_verify_login_successfully() {
         loginPage.navigateToLoginPage();
-        loginPage.login("anhtester@example.com", "123456");
+        loginPage.login("danghong0521@gmail.com", "654321");
         loginPage.verifyLoginSuccess();
     }
 

@@ -32,7 +32,7 @@ public class LoginPage extends BasePage {
     @Step("Đăng nhập nhanh với tài khoản mặc định")
     public void quickLogin() {
         navigateToLoginPage();
-        login("anhtester@example.com", "123456");
+        login("danghong0521@gmail.com", "654321");
         verifyLoginSuccess();
     }
 
